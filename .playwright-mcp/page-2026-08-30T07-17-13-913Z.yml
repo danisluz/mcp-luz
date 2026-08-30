@@ -1,0 +1,81 @@
+- generic [active] [ref=f2e1]:
+  - main [ref=f2e2]:
+    - link "Não Tenho Tempo!" [ref=f2e4] [cursor=pointer]:
+      - /url: /
+    - generic [ref=f2e9]:
+      - text: LGPD
+      - heading "Política de Privacidade" [level=1] [ref=f2e10]
+      - paragraph [ref=f2e11]: "Última atualização: 30 de agosto de 2026"
+      - paragraph [ref=f2e12]:
+        - text: Esta página explica, em linguagem simples, quais dados este site coleta quando você faz uma pré-reserva do livro
+        - strong [ref=f2e13]: “Não Tenho Tempo!”
+        - text: ", para que servem e quais são os seus direitos, em conformidade com a Lei Geral de Proteção de Dados (LGPD — Lei nº 13.709/2018)."
+      - heading "1. Quem é o responsável pelos seus dados" [level=2] [ref=f2e14]
+      - paragraph [ref=f2e15]:
+        - text: Este site é operado por
+        - strong [ref=f2e16]: Geziel Pradier Carneiro
+        - text: ", autor do livro, para viabilizar a pré-venda. As dúvidas ou solicitações sobre seus dados pessoais podem ser feitas diretamente pelo"
+        - link "WhatsApp" [ref=f2e17] [cursor=pointer]:
+          - /url: https://wa.me/555499767753?text=Ol%C3%A1!%20Tenho%20uma%20d%C3%BAvida%20sobre%20a%20Pol%C3%ADtica%20de%20Privacidade%20do%20site%20N%C3%A3o%20Tenho%20Tempo!.
+        - text: ", o mesmo canal usado para combinar pagamento e entrega."
+      - heading "2. Quais dados coletamos" [level=2] [ref=f2e21]
+      - paragraph [ref=f2e22]: "Só pedimos o necessário para processar seu pedido:"
+      - list [ref=f2e23]:
+        - listitem [ref=f2e24]:
+          - strong [ref=f2e25]: Nome completo
+        - listitem [ref=f2e26]:
+          - strong [ref=f2e27]: Celular/WhatsApp
+        - listitem [ref=f2e28]:
+          - strong [ref=f2e29]: E-mail
+          - text: (opcional)
+        - listitem [ref=f2e30]:
+          - text: "Se você escolher receber o livro por envio no Brasil:"
+          - strong [ref=f2e31]: CEP e endereço completo
+          - text: (rua, número, complemento, bairro, cidade, UF)
+      - paragraph [ref=f2e32]: Não pedimos CPF, dados de cartão ou qualquer informação de pagamento — o pagamento é feito por PIX (Brasil) ou transferência (Paraguai), diretamente por você, fora deste site.
+      - heading "3. Para que usamos esses dados" [level=2] [ref=f2e33]
+      - list [ref=f2e34]:
+        - listitem [ref=f2e35]: Registrar seu pedido e calcular o valor total (livro + frete, quando aplicável)
+        - listitem [ref=f2e36]: Falar com você pelo WhatsApp para confirmar o pagamento e combinar a retirada ou o envio
+        - listitem [ref=f2e37]: Calcular o frete até o seu endereço, quando você escolhe receber por envio
+      - heading "4. Com quem compartilhamos seus dados" [level=2] [ref=f2e38]
+      - paragraph [ref=f2e39]: "Não vendemos nem alugamos seus dados. Eles são compartilhados apenas com prestadores de serviço que ajudam a operar o site, na medida necessária:"
+      - list [ref=f2e40]:
+        - listitem [ref=f2e41]:
+          - strong [ref=f2e42]: "Google (Planilhas Google):"
+          - text: os dados do pedido (nome, telefone, e-mail e endereço) são registrados numa planilha privada para controle e atendimento.
+        - listitem [ref=f2e43]:
+          - strong [ref=f2e44]: "Melhor Envio:"
+          - text: recebe apenas o CEP informado, para calcular o preço e o prazo do frete — nunca seu nome ou contato.
+        - listitem [ref=f2e45]:
+          - strong [ref=f2e46]: "ViaCEP:"
+          - text: serviço público que devolve o endereço a partir do CEP digitado, para preencher o formulário automaticamente. Só o CEP é enviado, sem dados pessoais.
+      - heading "5. Cookies" [level=2] [ref=f2e47]
+      - paragraph [ref=f2e48]:
+        - text: Este site
+        - strong [ref=f2e49]: não usa cookies de rastreamento, publicidade ou análise
+        - text: (como Google Analytics). Não há banner de cookies porque não há nada para consentir — o site funciona sem depender de cookies.
+      - heading "6. Por quanto tempo guardamos seus dados" [level=2] [ref=f2e50]
+      - paragraph [ref=f2e51]: Mantemos os dados do pedido pelo tempo necessário para concluir a entrega e cumprir eventuais obrigações legais e fiscais. Você pode pedir a exclusão antes disso, respeitados os prazos legais de guarda quando aplicável.
+      - heading "7. Seus direitos" [level=2] [ref=f2e52]
+      - paragraph [ref=f2e53]: "Conforme o artigo 18 da LGPD, você pode, a qualquer momento e gratuitamente, solicitar:"
+      - list [ref=f2e54]:
+        - listitem [ref=f2e55]: Confirmação de que tratamos seus dados, e acesso a eles
+        - listitem [ref=f2e56]: Correção de dados incompletos, inexatos ou desatualizados
+        - listitem [ref=f2e57]: Anonimização, bloqueio ou eliminação de dados desnecessários
+        - listitem [ref=f2e58]: Portabilidade dos dados a outro fornecedor
+        - listitem [ref=f2e59]: Eliminação dos dados tratados com o seu consentimento
+        - listitem [ref=f2e60]: Informação sobre com quem compartilhamos seus dados
+      - paragraph [ref=f2e61]:
+        - text: Basta chamar no
+        - link "WhatsApp" [ref=f2e62] [cursor=pointer]:
+          - /url: https://wa.me/555499767753?text=Ol%C3%A1!%20Tenho%20uma%20d%C3%BAvida%20sobre%20a%20Pol%C3%ADtica%20de%20Privacidade%20do%20site%20N%C3%A3o%20Tenho%20Tempo!.
+        - text: e pedir. Respondemos o quanto antes.
+      - heading "8. Segurança" [level=2] [ref=f2e63]
+      - paragraph [ref=f2e64]: Os dados trafegam por conexão criptografada (HTTPS) e o cálculo de frete usa um código assinado digitalmente com prazo de validade, para evitar adulteração do valor combinado.
+      - heading "9. Alterações desta política" [level=2] [ref=f2e65]
+      - paragraph [ref=f2e66]: Podemos atualizar esta página se o site mudar a forma como trata dados. A data no topo sempre indica a versão mais recente.
+    - link "← Voltar para a página do livro" [ref=f2e68] [cursor=pointer]:
+      - /url: /
+  - region "Notifications alt+T"
+  - button "Open Next.js Dev Tools" [ref=f2e74] [cursor=pointer]

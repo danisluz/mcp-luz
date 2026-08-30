@@ -1,0 +1,94 @@
+- generic [active] [ref=f1e1]:
+  - main [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - link "Não Tenho Tempo!" [ref=f1e4] [cursor=pointer]:
+        - /url: "#top"
+      - navigation "Navegação" [ref=f1e8]:
+        - link "Garantir meu exemplar" [ref=f1e9] [cursor=pointer]:
+          - /url: "#comprar"
+        - generic "Idioma" [ref=f1e10]:
+          - button "PT" [pressed] [ref=f1e11] [cursor=pointer]
+          - button "ES" [ref=f1e12] [cursor=pointer]
+    - generic [ref=f1e13]:
+      - generic [ref=f1e14]:
+        - generic [ref=f1e15]: Pré-venda
+        - heading "Não Tenho Tempo!" [level=1] [ref=f1e17]
+        - paragraph [ref=f1e19]: Como reorganizar o coração, a agenda e o chamado
+        - paragraph [ref=f1e20]: PR. GEZIEL PRADIER
+        - generic [ref=f1e21]:
+          - strong [ref=f1e22]: R$ 35,00
+          - generic [ref=f1e23]: pré-venda • Brasil
+        - link "Garantir meu exemplar" [ref=f1e25] [cursor=pointer]:
+          - /url: "#comprar"
+        - paragraph [ref=f1e29]: Poucas cópias por lote. Combinamos a entrega com você pelo WhatsApp.
+      - link "Role para explorar" [ref=f1e31] [cursor=pointer]:
+        - /url: "#sobre-o-livro"
+    - generic [ref=f1e36]:
+      - text: Sobre o livro
+      - heading "Sobre o livro" [level=2] [ref=f1e37]
+      - paragraph [ref=f1e38]: "“Não tenho tempo” é a frase mais repetida da nossa geração — e também a mais cara. Ela custa oração, custa família, custa chamado. Neste livro, o Pr. Geziel Pradier trata o tempo como aquilo que ele realmente é: uma mordomia diante de Deus."
+      - paragraph [ref=f1e39]: Escrito no campo missionário, entre viagens, igreja e vida de família, o livro nasceu da própria luta do autor com uma agenda cheia e um coração cansado.
+      - generic [ref=f1e40]:
+        - paragraph [ref=f1e41]: Por que a falta de tempo quase nunca é um problema de relógio, e sim de coração.
+        - paragraph [ref=f1e44]: Um caminho prático para reorganizar a semana sem abandonar o que Deus já lhe confiou.
+        - paragraph [ref=f1e47]: Como reencontrar o chamado no meio da rotina, e não depois dela.
+    - generic [ref=f1e51]:
+      - img "Pr. Geziel Pradier" [ref=f1e52]
+      - generic [ref=f1e53]:
+        - heading "Pr. Geziel Pradier" [level=2] [ref=f1e54]
+        - generic [ref=f1e55]: Pastor, professor e missionário no Paraguai
+        - paragraph [ref=f1e56]: Pastor principal da Assembleia de Deus em Yuty, no Paraguai, e professor universitário na UTCD. Também apoia a mesa diretora da Asamblea de Dios en el Paraguay com ideias e projetos para o fortalecimento da liderança. Formado em Administração e Teologia (UNIFIL), pós-graduado em Docência no Ensino Superior e graduando em Direito. Casado com Lucinara, pai de Júlia e Joaquim.
+    - generic [ref=f1e58]:
+      - heading [level=2] [ref=f1e62]:
+        - text: O tempo não volta.
+        - emphasis [ref=f1e63]: Organize o que realmente importa.
+      - paragraph [ref=f1e64]: “Sincronizar o propósito com as decisões irá trazer saúde para a minha vida.”
+      - text: DO LIVRO
+    - generic [ref=f1e66]:
+      - text: Prefácio
+      - paragraph [ref=f1e67]: “O livro provoca o leitor a repensar hábitos, decisões e responsabilidades à luz do chamado divino — um chamado para abandonar a tirania da urgência e abraçar uma vida guiada por propósito, disciplina e dependência do Senhor.”
+      - paragraph [ref=f1e68]: Daniel Fich — Pastor Sênior na AD Lajeado, do prefácio do livro
+    - generic [ref=f1e70]:
+      - text: Pré-venda
+      - heading "Garantir meu exemplar" [level=2] [ref=f1e71]
+      - paragraph [ref=f1e72]: Preencha seus dados e siga para o pagamento. Depois entramos em contato pelo WhatsApp.
+      - generic [ref=f1e73]:
+        - generic [ref=f1e74]:
+          - text: Nome completo
+          - textbox "Nome completo" [ref=f1e75]
+        - generic [ref=f1e76]:
+          - text: Celular (WhatsApp)
+          - textbox "Celular (WhatsApp)" [ref=f1e77]:
+            - /placeholder: +55 (11) 99999-9999
+        - generic [ref=f1e78]:
+          - text: E-mail (opcional)
+          - textbox "E-mail (opcional)" [ref=f1e79]:
+            - /placeholder: nome@exemplo.com
+        - group "Como prefere receber?" [ref=f1e80]:
+          - button "Retirar em mãos" [ref=f1e82] [cursor=pointer]
+          - button "Receber por envio" [ref=f1e88] [cursor=pointer]
+        - button "Ir para o pagamento" [ref=f1e94] [cursor=pointer]
+        - generic [ref=f1e100]: Pagamento via PIX. Envie o comprovante pelo WhatsApp.
+    - generic [ref=f1e102]:
+      - heading "Como funciona a entrega" [level=2] [ref=f1e103]
+      - paragraph [ref=f1e104]: Assim que o pagamento é confirmado, o Pr. Geziel chama você no WhatsApp para combinar a retirada em mãos ou confirmar o endereço de envio.
+      - generic [ref=f1e105]:
+        - generic [ref=f1e106]:
+          - generic [ref=f1e107]: "01"
+          - strong [ref=f1e110]: Pagamento
+        - generic [ref=f1e111]:
+          - generic [ref=f1e112]: "02"
+          - strong [ref=f1e115]: WhatsApp
+        - generic [ref=f1e116]:
+          - generic [ref=f1e117]: "03"
+          - strong [ref=f1e120]: Livro na sua mão
+    - generic [ref=f1e121]:
+      - paragraph [ref=f1e122]: Ficou com alguma dúvida sobre o livro, o pagamento ou a entrega?
+      - link "Chamar no WhatsApp" [ref=f1e123] [cursor=pointer]:
+        - /url: https://wa.me/555499767753?text=Ol%C3%A1%2C%20Pr.%20Geziel!%20Acabei%20de%20comprar%20o%20livro%20%E2%80%9CN%C3%A3o%20tenho%20Tempo!%E2%80%9D%20e%20gostaria%20de%20combinar%20a%20entrega.
+    - generic [ref=f1e126]:
+      - text: PR. GEZIEL PRADIER•PRÉ-VENDA 2026
+      - link "Desenvolvido por Barake" [ref=f1e127] [cursor=pointer]:
+        - /url: https://www.barake.com.br/
+  - region "Notifications alt+T"
+  - button "Open Next.js Dev Tools" [ref=f1e133] [cursor=pointer]

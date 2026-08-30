@@ -3,8 +3,9 @@
   "version": "0.2.0",
   "type": "module",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && npm run sync:codex-agents",
     "dev": "tsc --watch",
+    "sync:codex-agents": "node scripts/sync-codex-agents.mjs",
     "start": "node dist/server.js"
   },
   "dependencies": {

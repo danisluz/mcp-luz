@@ -1,4 +1,5 @@
 .env
 dist/
+.generated/
 node_modules/
 .mcp-fetch-venv/

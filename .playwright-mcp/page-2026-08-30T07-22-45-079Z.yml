@@ -1,0 +1,96 @@
+- generic [active] [ref=f4e1]:
+  - main [ref=f4e2]:
+    - generic [ref=f4e3]:
+      - link "¡No Tengo Tiempo!" [ref=f4e4] [cursor=pointer]:
+        - /url: /
+      - generic "País" [ref=f4e8]:
+        - link "Brasil, em português" [ref=f4e9] [cursor=pointer]:
+          - /url: /politica-de-privacidade
+          - text: BR
+        - link "Paraguay, en español" [ref=f4e15] [cursor=pointer]:
+          - /url: /politica-de-privacidade?lang=es
+          - text: PY
+    - generic [ref=f4e24]:
+      - text: LGPD
+      - heading "Política de Privacidad" [level=1] [ref=f4e25]
+      - paragraph [ref=f4e26]: "Última actualización: 30 de agosto de 2026"
+      - paragraph [ref=f4e27]:
+        - text: Esta página explica, en lenguaje simple, qué datos recopila este sitio cuando hacés una reserva anticipada del libro
+        - strong [ref=f4e28]: “¡No Tengo Tiempo!”
+        - text: ", para qué se usan y cuáles son tus derechos. El responsable de este sitio opera desde Brasil, por lo que el tratamiento de datos se rige por la Ley General de Protección de Datos brasileña (LGPD — Ley n.º 13.709/2018)."
+      - generic [ref=f4e29]:
+        - heading "1. Quién es responsable de tus datos" [level=2] [ref=f4e30]
+        - paragraph [ref=f4e31]:
+          - text: Este sitio es operado por
+          - strong [ref=f4e32]: Geziel Pradier Carneiro
+          - text: ", autor del libro, para viabilizar la preventa. Las consultas o solicitudes sobre tus datos personales podés hacerlas directamente por WhatsApp, el mismo canal que usamos para coordinar el pago y la entrega."
+      - generic [ref=f4e33]:
+        - heading "2. Qué datos recopilamos" [level=2] [ref=f4e34]
+        - paragraph [ref=f4e35]: "Solo pedimos lo necesario para procesar tu pedido:"
+        - list [ref=f4e36]:
+          - listitem [ref=f4e37]:
+            - strong [ref=f4e38]: Nombre completo
+          - listitem [ref=f4e39]:
+            - strong [ref=f4e40]: Celular/WhatsApp
+          - listitem [ref=f4e41]:
+            - strong [ref=f4e42]: Correo electrónico
+            - text: (opcional)
+          - listitem [ref=f4e43]:
+            - text: "Si comprás desde Brasil y elegís recibir por envío:"
+            - strong [ref=f4e44]: código postal (CEP) y dirección completa
+            - text: (calle, número, complemento, barrio, ciudad, estado)
+        - paragraph [ref=f4e45]: No pedimos CI/RUC, datos de tarjeta ni ninguna información de pago — el pago se hace por transferencia (Paraguay) o PIX (Brasil), directamente por vos, fuera de este sitio.
+      - generic [ref=f4e46]:
+        - heading "3. Para qué usamos estos datos" [level=2] [ref=f4e47]
+        - list [ref=f4e48]:
+          - listitem [ref=f4e49]: Registrar tu pedido y calcular el valor total
+          - listitem [ref=f4e50]: Hablar con vos por WhatsApp para confirmar el pago y coordinar la entrega
+          - listitem [ref=f4e51]: Calcular el envío hasta tu dirección, cuando corresponda (pedidos desde Brasil)
+      - generic [ref=f4e52]:
+        - heading "4. Con quién compartimos tus datos" [level=2] [ref=f4e53]
+        - paragraph [ref=f4e54]: "No vendemos ni alquilamos tus datos. Se comparten solo con proveedores que ayudan a operar el sitio, en la medida necesaria:"
+        - list [ref=f4e55]:
+          - listitem [ref=f4e56]:
+            - strong [ref=f4e57]: "Google (Hojas de cálculo de Google):"
+            - text: los datos del pedido (nombre, teléfono, correo y dirección) se registran en una planilla privada para control y atención.
+          - listitem [ref=f4e58]:
+            - strong [ref=f4e59]: "Melhor Envio:"
+            - text: recibe solo el código postal informado (pedidos desde Brasil), para calcular el precio y el plazo del envío — nunca tu nombre o contacto.
+          - listitem [ref=f4e60]:
+            - strong [ref=f4e61]: "ViaCEP:"
+            - text: servicio público que devuelve la dirección a partir del código postal, para completar el formulario automáticamente. Solo se envía el código postal, sin datos personales.
+      - generic [ref=f4e62]:
+        - heading "5. Cookies" [level=2] [ref=f4e63]
+        - paragraph [ref=f4e64]:
+          - text: Este sitio
+          - strong [ref=f4e65]: no usa cookies de rastreo, publicidad ni análisis
+          - text: (como Google Analytics). No hay banner de cookies porque no hay nada que consentir — el sitio funciona sin depender de cookies.
+      - generic [ref=f4e66]:
+        - heading "6. Por cuánto tiempo guardamos tus datos" [level=2] [ref=f4e67]
+        - paragraph [ref=f4e68]: Mantenemos los datos del pedido el tiempo necesario para completar la entrega y cumplir eventuales obligaciones legales y fiscales. Podés pedir la eliminación antes de eso, respetando los plazos legales de conservación cuando corresponda.
+      - generic [ref=f4e69]:
+        - heading "7. Tus derechos" [level=2] [ref=f4e70]
+        - paragraph [ref=f4e71]: "Conforme al artículo 18 de la LGPD, podés, en cualquier momento y de forma gratuita, solicitar:"
+        - list [ref=f4e72]:
+          - listitem [ref=f4e73]: Confirmación de que tratamos tus datos, y acceso a ellos
+          - listitem [ref=f4e74]: Corrección de datos incompletos, inexactos o desactualizados
+          - listitem [ref=f4e75]: Anonimización, bloqueo o eliminación de datos innecesarios
+          - listitem [ref=f4e76]: Portabilidad de los datos a otro proveedor
+          - listitem [ref=f4e77]: Eliminación de los datos tratados con tu consentimiento
+          - listitem [ref=f4e78]: Información sobre con quién compartimos tus datos
+        - paragraph [ref=f4e79]: Simplemente escribinos por WhatsApp y pedilo. Respondemos lo antes posible.
+      - generic [ref=f4e80]:
+        - heading "8. Seguridad" [level=2] [ref=f4e81]
+        - paragraph [ref=f4e82]: Los datos viajan por conexión cifrada (HTTPS) y el cálculo de envío usa un código firmado digitalmente con plazo de validez, para evitar la alteración del valor acordado.
+      - generic [ref=f4e83]:
+        - heading "9. Cambios en esta política" [level=2] [ref=f4e84]
+        - paragraph [ref=f4e85]: Podemos actualizar esta página si el sitio cambia la forma en que trata los datos. La fecha en la parte superior siempre indica la versión más reciente.
+      - paragraph [ref=f4e86]:
+        - text: Escribinos por
+        - link "WhatsApp" [ref=f4e87] [cursor=pointer]:
+          - /url: https://wa.me/555499767753?text=%C2%A1Hola!%20Tengo%20una%20duda%20sobre%20la%20Pol%C3%ADtica%20de%20Privacidad%20del%20sitio%20%C2%A1No%20Tengo%20Tiempo!.
+        - text: si tenés cualquier duda sobre tus datos.
+    - link "← Volver a la página del libro" [ref=f4e92] [cursor=pointer]:
+      - /url: /
+  - region "Notifications alt+T"
+  - button "Open Next.js Dev Tools" [ref=f4e98] [cursor=pointer]
