@@ -49,6 +49,25 @@ Depois de compilar, registre o servidor no seu cliente MCP usando o executável 
 
 Substitua o caminho pelo local em que o repositório foi clonado. O servidor usa `stdio`; logs operacionais são enviados para `stderr`.
 
+## Sincronização com o Codex
+
+Para instalar ou atualizar os recursos locais no Codex, rode:
+
+```bash
+npm run build
+npm run install:codex
+```
+
+Esse fluxo:
+
+- compila o servidor MCP em `dist/server.js`;
+- gera os agentes TOML a partir de `src/agents/*.md`;
+- copia os agentes para `.codex/agents` e `~/.codex/agents`;
+- copia as skills de `src/skills/shared` para `~/.codex/skills`;
+- garante o registro do MCP `mcp-luz` em `~/.codex/config.toml`.
+
+Depois de adicionar, remover ou alterar agents, skills ou tools MCP, rode esses comandos e abra uma nova sessão do Codex. O Codex carrega o inventário de skills, agents e MCPs no início da sessão; conversas já abertas não recebem hot reload.
+
 ## Ferramentas nativas
 
 | Ferramenta | Descrição |

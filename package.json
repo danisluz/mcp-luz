@@ -5,6 +5,7 @@
   "scripts": {
     "build": "tsc && npm run sync:codex-agents",
     "dev": "tsc --watch",
+    "install:codex": "node scripts/install-codex-local.mjs",
     "sync:codex-agents": "node scripts/sync-codex-agents.mjs",
     "start": "node dist/server.js"
   },
