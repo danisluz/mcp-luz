@@ -1,0 +1,21 @@
+{
+  "name": "mcp-luz",
+  "version": "0.2.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "start": "node dist/server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "@upstash/context7-mcp": "^4.0.4"
+  },
+  "optionalDependencies": {
+    "figma-developer-mcp": "^0.13.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3"
+  }
+}
